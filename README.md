@@ -7,7 +7,7 @@ Most discussion on the generic topic of social influence centres on compliance a
 Many influencers social media presence is on both Instagram and Twitter. The rise in popularity of video content means a growing number of influencers can also be found on YouTube.
 There are millions of influencers present on the various social media platforms around the globe. These millions have a collective following of over few billions. That is a huge number from the perspective of any marketing analyst. The sheer size of the population that these social media influencers interact with is huge. This makes them the perfect candidates for certain brands who want to advertise their products or services in an attempt to expand their market. Influencer marketing allows such interested parties to accomplish that.
  
- YOU CAN FIND THE SCREENSHOTS OF THE WEBSITE IN SCREENSHOTS FOLDER.
+ YOU CAN FIND THE SCREENSHOTS OF THE WEBSITE IN Screenshots.docx FILE ABOVE.
  
  I USED WAMPSERVER FOR THIS.
  
